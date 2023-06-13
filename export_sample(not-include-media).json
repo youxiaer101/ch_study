@@ -1,11 +1,4 @@
 [
-  null,
-  null,
-  null,
-  null,
-  null,
-  null,
-  null,
   {
     "id": 8,
     "simplified": "不",
@@ -671,12 +664,7 @@
       }
     ]
   },
-  null,
-  null,
-  null,
-  null,
-  null,
-  null,
+
   {
     "id": 15,
     "simplified": "的",
@@ -1377,10 +1365,6 @@
       }
     ]
   },
-  null,
-  null,
-  null,
-  null,
   {
     "id": 21,
     "simplified": "都",
@@ -1560,8 +1544,6 @@
       }
     ]
   },
-  null,
-  null,
   {
     "id": 24,
     "simplified": "多",
@@ -2010,12 +1992,6 @@
       }
     ]
   },
-  null,
-  null,
-  null,
-  null,
-  null,
-  null,
   {
     "id": 32,
     "simplified": "个",
@@ -2222,11 +2198,7 @@
       }
     ]
   },
-  null,
-  null,
-  null,
-  null,
-  null,
+
   {
     "id": 38,
     "simplified": "和",
@@ -2585,8 +2557,6 @@
       }
     ]
   },
-  null,
-  null,
   {
     "id": 42,
     "simplified": "会",
@@ -2937,7 +2907,7 @@
       }
     ]
   },
-  null,
+
   {
     "id": 44,
     "simplified": "几",
@@ -3072,7 +3042,7 @@
       }
     ]
   },
-  null,
+
   {
     "id": 46,
     "simplified": "叫",
@@ -3261,11 +3231,7 @@
       }
     ]
   },
-  null,
-  null,
-  null,
-  null,
-  null,
+
   {
     "id": 52,
     "simplified": "块",
@@ -3570,7 +3536,7 @@
       }
     ]
   },
-  null,
+
   {
     "id": 55,
     "simplified": "了",
@@ -4065,7 +4031,6 @@
       }
     ]
   },
-  null,
   {
     "id": 57,
     "simplified": "里",
@@ -4325,8 +4290,7 @@
       }
     ]
   },
-  null,
-  null,
+
   {
     "id": 61,
     "simplified": "吗",
@@ -4632,8 +4596,6 @@
       }
     ]
   },
-  null,
-  null,
   {
     "id": 64,
     "simplified": "没",
@@ -5020,10 +4982,7 @@
       }
     ]
   },
-  null,
-  null,
-  null,
-  null,
+
   {
     "id": 69,
     "simplified": "哪",
@@ -5230,7 +5189,7 @@
       }
     ]
   },
-  null,
+
   {
     "id": 71,
     "simplified": "呢",
@@ -5902,11 +5861,7 @@
       }
     ]
   },
-  null,
-  null,
-  null,
-  null,
-  null,
+
   {
     "id": 80,
     "simplified": "钱",
@@ -6041,7 +5996,7 @@
       }
     ]
   },
-  null,
+
   {
     "id": 82,
     "simplified": "请",
@@ -6499,9 +6454,7 @@
       }
     ]
   },
-  null,
-  null,
-  null,
+
   {
     "id": 87,
     "simplified": "日",
@@ -6654,10 +6607,7 @@
       }
     ]
   },
-  null,
-  null,
-  null,
-  null,
+
   {
     "id": 92,
     "simplified": "少",
@@ -7354,7 +7304,8 @@
       }
     ]
   },
-  null,
+  
+
   {
     "id": 96,
     "simplified": "时候",
@@ -8163,12 +8114,6 @@
       }
     ]
   },
-  null,
-  null,
-  null,
-  null,
-  null,
-  null,
   {
     "id": 104,
     "simplified": "岁",
@@ -8330,8 +8275,7 @@
       }
     ]
   },
-  null,
-  null,
+
   {
     "id": 107,
     "simplified": "太",
@@ -8601,19 +8545,7 @@
       }
     ]
   },
-  null,
-  null,
-  null,
-  null,
-  null,
-  null,
-  null,
-  null,
-  null,
-  null,
-  null,
-  null,
-  null,
+
   {
     "id": 121,
     "simplified": "想",
@@ -8784,8 +8716,6 @@
       }
     ]
   },
-  null,
-  null,
   {
     "id": 124,
     "simplified": "些",
@@ -8938,12 +8868,7 @@
       }
     ]
   },
-  null,
-  null,
-  null,
-  null,
-  null,
-  null,
+
   {
     "id": 131,
     "simplified": "一",
@@ -9096,10 +9021,7 @@
       }
     ]
   },
-  null,
-  null,
-  null,
-  null,
+
   {
     "id": 136,
     "simplified": "有",
@@ -10141,7 +10063,7 @@
       }
     ]
   },
-  null,
+ 
   {
     "id": 140,
     "simplified": "怎么",
@@ -10520,14 +10442,5 @@
         "sample_en": "What do you think of Chinese?"
       }
     ]
-  },
-  null,
-  null,
-  null,
-  null,
-  null,
-  null,
-  null,
-  null,
-  null
+  }
 ]
